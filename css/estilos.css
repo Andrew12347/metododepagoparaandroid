@@ -4,7 +4,7 @@
 			padding:0;
 		}
 		body{
-			background: linear-gradient(rgb(247, 241, 241),rgb(30%, 70%, 0%), rgb(60%, 100%, 0%),red);
+			background: linear-gradient(rgb(247, 241, 241),rgb(30%, 70%, 0%), rgb(60%, 100%, 0%),rgb(43, 34, 34));
 			 text-align: center;
 			 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 			 font-size: 40px;
@@ -25,7 +25,7 @@
 
 		.link{
 			background: green;
-			text-color: black;
+			color: black;
 
 		}
 
@@ -38,8 +38,7 @@
 		.cond{
 			font-size: 20px;
 			font-family: Arial, Helvetica, sans-serif;
+			color: white;
 		}
 		
-		a{
-			text-color: white;
-		}
+	
